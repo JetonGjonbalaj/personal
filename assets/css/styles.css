@@ -4,18 +4,6 @@
   height:100%;
 }
 
-@media (min-width: 768px) {
-  #emri {
-    font-weight:bold;
-    font-size:64px;
-  }
-}
-
-#emri {
-  font-weight:bold;
-  font-size:40px;
-}
-
 .prezantimi {
   font-size:22px;
 }
